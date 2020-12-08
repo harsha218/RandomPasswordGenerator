@@ -106,3 +106,4 @@ dist
 #Additional
 Data
 seeder.js
+package-lock.json
